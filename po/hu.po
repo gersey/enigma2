@@ -244,16 +244,16 @@ msgstr[0] "%d elérhető vezeték nélküli hálózat!"
 msgstr[1] "%d elérhető vezeték nélküli hálózat!"
 
 msgid "%d-%m"
-msgstr "%d-%m"
+msgstr "%m %d"
 
 msgid "%d.%B %Y"
 msgstr "%Y. %B %d."
 
 msgid "%d.%m.   "
-msgstr "%m/%d   "
+msgstr "%m.%d   "
 
 msgid "%e/%m, %-H:%M"
-msgstr "%m/%e, %-H:%M"
+msgstr "%m.%d %H:%M"
 
 msgid "%H:%M"
 msgstr "%H:%M"
